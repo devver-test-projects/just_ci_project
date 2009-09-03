@@ -5,4 +5,9 @@ class BatmanTest < ActiveSupport::TestCase
   test "the truth" do
     assert true
   end
+
+  test "im batman" do
+    assert_equal "I'm batman", "I'm batman"
+  end
+ 
 end
