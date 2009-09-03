@@ -1,0 +1,9 @@
+.devver/devver_opts.yml
+log
+db/*.sqlite3
+.devver/devver_opts.yml
+.devver/client.log
+.devver/client_version
+.devver/devver_excluded_files
+.devver/devver_sync_time.yml
+.devver/project_id
