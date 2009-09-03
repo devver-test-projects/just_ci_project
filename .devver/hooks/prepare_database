@@ -19,7 +19,8 @@
 # loading the schema.  In that case, comment out any other commands and
 # uncomment the following line:
 
- RAILS_ENV=test rake db:migrate
+rake db:migrate
+rake db:test:clone
 
 # *** NOTE FOR UPGRADING USERS ***
 #
