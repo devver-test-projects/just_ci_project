@@ -25,9 +25,9 @@ if [ -e $rake_file ]; then
 fi
 
 
-echo "i had an error oops"
-puts "i had an error what?"
-exit 1
+#echo "i had an error oops"
+#puts "i had an error what?"
+#exit 1
 
 # If your project is not a Rails project or if you don't use Rails gem
 # dependencies, you may want to comment out the line above and uncomment the

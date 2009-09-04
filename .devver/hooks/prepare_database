@@ -22,6 +22,9 @@
 rake db:migrate
 rake db:test:clone
 
+echo "dsfsdf"
+exit 1
+
 # *** NOTE FOR UPGRADING USERS ***
 #
 # If you previously customized your project's database initialization using the
