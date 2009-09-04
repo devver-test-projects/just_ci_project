@@ -22,8 +22,8 @@
 rake db:migrate
 rake db:test:clone
 
-echo "dsfsdf"
-exit 1
+#echo "dsfsdf"
+#exit 1
 
 # *** NOTE FOR UPGRADING USERS ***
 #
