@@ -24,6 +24,9 @@ if [ -e $rake_file ]; then
     rake gems:install RAILS_ENV=test
 fi
 
+puts "i had an error what?"
+exit 1
+
 # If your project is not a Rails project or if you don't use Rails gem
 # dependencies, you may want to comment out the line above and uncomment the
 # following line.  This line will call geminstaller, which looks for a
