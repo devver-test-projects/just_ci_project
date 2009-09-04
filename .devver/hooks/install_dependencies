@@ -24,6 +24,8 @@ if [ -e $rake_file ]; then
     rake gems:install RAILS_ENV=test
 fi
 
+
+echo "i had an error oops"
 puts "i had an error what?"
 exit 1
 
